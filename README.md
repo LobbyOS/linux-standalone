@@ -6,6 +6,8 @@ A Standalone Lobby Installation for Linux
 
 The `Lobby` directory is the standalone sotware. This folder is zipped and distributed for download.
 
+The latest Lobby version is extracted to `Lobby/lobby`. This is done when a new version comes out.
+
 ## Compile PHP
 
 PHP Version : 7.0.6
