@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=0.6
+Name=Lobby
+Comment=Lobby is an Open Source Web OS - lobby.subinsb.com
+Exec=./Lobby.sh
+Icon=/home/simsu/Other/projects/Web/Lobby/Zed/Auto/Linux/Standalone/Lobby/lib/logo.svg
+Terminal=false
+Type=Application
