@@ -5,4 +5,8 @@ workingDir="$workingDir/.."
 
 pid=`ps -ef | awk '/[L]obbyPHPCliServer/{print $2}'`
 
-kill $pid
+if [ -z "$pid" ]; then
+  false
+else
+  kill $pid
+fi

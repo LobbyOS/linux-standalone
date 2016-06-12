@@ -5,7 +5,7 @@ host="127.0.0.1:2020"
 
 workingDir=$(dirname "$(readlink -f "$0")")
 
-chmod 0755 "$workingDir/php/start-server.sh" "$workingDir/php/stop-server.sh"
+chmod 0755 "$workingDir/" -R
 
 # If a server is already running, kill it and not Open Lobby
 if "$workingDir/php/stop-server.sh"; then
