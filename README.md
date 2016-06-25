@@ -4,7 +4,7 @@ A Standalone Lobby Installation for Linux
 
 ## HowTo
 
-The `Lobby` directory is the standalone sotware. This folder is zipped and distributed for download.
+The `Lobby` directory is the standalone software. This folder is zipped and distributed for download.
 
 The latest Lobby version is extracted to `Lobby/lobby`. This is done when a new version comes out.
 
