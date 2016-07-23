@@ -3,6 +3,6 @@ Version=0.6
 Name=Stop Lobby Server
 Comment=Stops the Lobby Server if it's running.
 Exec=./php/stop-server.sh
-Icon=/home/simsu/Other/projects/Web/Lobby/Zed/Auto/Linux/Standalone/Lobby/lib/logo-stop.svg
+Icon=/media/sf_Web/Lobby/Zed/Auto/Linux/Standalone/Lobby/lib/logo-stop.svg
 Terminal=false
 Type=Application
