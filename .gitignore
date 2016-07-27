@@ -2,3 +2,5 @@ archives/*
 compile-php
 compile-php/*
 Lobby/lobby/*
+Lobby/php/php
+Lobby/php/extensions/*
